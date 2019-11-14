@@ -1,0 +1,184 @@
+{
+  "data": {
+    "11-9013.02": {
+      "title": "Farm and Ranch Managers",
+      "description": "Plan, direct, or coordinate the management or operation of farms, ranches, greenhouses, aquacultural operations, nurseries, timber tracts, or other agricultural establishments. May hire, train, or supervise farm workers or contract for services to carry out the day-to-day activities of the managed operation. May engage in or supervise planting, cultivating, harvesting, financial, or marketing activities.",
+      "educationAttainmentLevels": [
+        {
+          "level": "A High School Diploma or Less",
+          "percent": 30.52
+        },
+        {
+          "level": "A Certificate",
+          "percent": 27.3
+        },
+        {
+          "level": "Some College",
+          "percent": 2.91
+        },
+        {
+          "level": "An Associate Degree",
+          "percent": 1.54
+        },
+        {
+          "level": "A Bachelor's Degree",
+          "percent": 37.73
+        },
+        {
+          "level": "A Master's or Professional Degree",
+          "percent": 0
+        },
+        {
+          "level": "A Doctoral Degree",
+          "percent": 0
+        }
+      ],
+      "medianSalary": 85322.70244368601,
+      "thumbnailUrl": "https://d24eua068y5lt4.cloudfront.net/us/images/careers/renditions/11-9013_square_600.jpg"
+    },
+    "13-1021.00": {
+      "title": "Buyers and Purchasing Agents, Farm Products",
+      "description": "Purchase farm products either for further processing or resale. Includes tree farm contractors, grain brokers and market operators, grain buyers, and tobacco buyers.",
+      "educationAttainmentLevels": [
+        {
+          "level": "A High School Diploma or Less",
+          "percent": 7.6
+        },
+        {
+          "level": "A Certificate",
+          "percent": 0
+        },
+        {
+          "level": "Some College",
+          "percent": 7.28
+        },
+        {
+          "level": "An Associate Degree",
+          "percent": 8.29
+        },
+        {
+          "level": "A Bachelor's Degree",
+          "percent": 76.83
+        },
+        {
+          "level": "A Master's or Professional Degree",
+          "percent": 0
+        },
+        {
+          "level": "A Doctoral Degree",
+          "percent": 0
+        }
+      ],
+      "medianSalary": 71063.62812703836,
+      "thumbnailUrl": "https://d24eua068y5lt4.cloudfront.net/us/images/careers/renditions/13-1021_square_600.jpg"
+    },
+    "41-4011.00": {
+      "title": "Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",
+      "description": "Sell goods for wholesalers or manufacturers where technical or scientific knowledge is required in such areas as biology, engineering, chemistry, and electronics, normally obtained from at least 2 years of post-secondary education.",
+      "educationAttainmentLevels": [
+        {
+          "level": "A High School Diploma or Less",
+          "percent": 14.41
+        },
+        {
+          "level": "A Certificate",
+          "percent": 13.75
+        },
+        {
+          "level": "Some College",
+          "percent": 30.47
+        },
+        {
+          "level": "An Associate Degree",
+          "percent": 0
+        },
+        {
+          "level": "A Bachelor's Degree",
+          "percent": 41.07
+        },
+        {
+          "level": "A Master's or Professional Degree",
+          "percent": 0
+        },
+        {
+          "level": "A Doctoral Degree",
+          "percent": 0.31
+        }
+      ],
+      "medianSalary": 80677.26455986573,
+      "thumbnailUrl": "https://d24eua068y5lt4.cloudfront.net/us/images/careers/renditions/41-4011_square_600.jpg"
+    },
+    "19-1012.00": {
+      "title": "Food Scientists and Technologists",
+      "description": "Use chemistry, microbiology, engineering, and other sciences to study the principles underlying the processing and deterioration of foods; analyze food content to determine levels of vitamins, fat, sugar, and protein; discover new food sources; research ways to make processed foods safe, palatable, and healthful; and apply food science knowledge to determine best ways to process, package, preserve, store, and distribute food.",
+      "educationAttainmentLevels": [
+        {
+          "level": "A High School Diploma or Less",
+          "percent": 0
+        },
+        {
+          "level": "A Certificate",
+          "percent": 0
+        },
+        {
+          "level": "Some College",
+          "percent": 0
+        },
+        {
+          "level": "An Associate Degree",
+          "percent": 0
+        },
+        {
+          "level": "A Bachelor's Degree",
+          "percent": 73.08
+        },
+        {
+          "level": "A Master's or Professional Degree",
+          "percent": 19.23
+        },
+        {
+          "level": "A Doctoral Degree",
+          "percent": 7.69
+        }
+      ],
+      "medianSalary": 55455.9481,
+      "thumbnailUrl": "https://d24eua068y5lt4.cloudfront.net/us/images/careers/renditions/19-1012_square_600.jpg"
+    },
+    "25-9021.00": {
+      "title": "Farm and Home Management Advisors",
+      "description": "Advise, instruct, and assist individuals and families engaged in agriculture, agricultural-related processes, or home economics activities. Demonstrate procedures and apply research findings to solve problems; and instruct and train in product development, sales, and the use of machinery and equipment to promote general welfare. Includes county agricultural agents, feed and farm management advisors, home economists, and extension service advisors.",
+      "educationAttainmentLevels": [
+        {
+          "level": "A High School Diploma or Less",
+          "percent": 0
+        },
+        {
+          "level": "A Certificate",
+          "percent": 0
+        },
+        {
+          "level": "Some College",
+          "percent": 0
+        },
+        {
+          "level": "An Associate Degree",
+          "percent": 0
+        },
+        {
+          "level": "A Bachelor's Degree",
+          "percent": 27.58
+        },
+        {
+          "level": "A Master's or Professional Degree",
+          "percent": 65.52
+        },
+        {
+          "level": "A Doctoral Degree",
+          "percent": 6.9
+        }
+      ],
+      "medianSalary": 63068.82645259939,
+      "thumbnailUrl": "https://d24eua068y5lt4.cloudfront.net/us/images/careers/renditions/25-9021_square_600.jpg"
+    }
+  }
+}
