@@ -3,7 +3,7 @@
 ## Getting Started: 
 1. Have Node.js on your local development machine
 1. Download/Clone the repository
-2. cd to react_project on your local development machine
+2. cd to the project directory on your local development machine
 3. Run the following commands: 
   ### npm install
   ### npm start
