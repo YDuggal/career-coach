@@ -4,7 +4,7 @@ body {
 
 .card {
     background-color: #ffffff;
-    border-radius: 6px;
+    /* border-radius: 6px; */
     width: 90%;
     margin-top: 2rem;
     margin-bottom: 2rem;
@@ -19,15 +19,18 @@ body {
     padding: 2rem !important;
 }
 
+.container {
+    display: flex;
+    flex-direction: row;   
+    margin: auto; 
+    font-family: sans-serif;
+}
+
 .top-container {
     display: flex;
     flex-direction: column;
 }
 
-.sub-container {
-    display: flex;
-    flex-direction: row;
-}
 .card-title {
     font-size: x-large;
     font-weight: 600;
@@ -35,33 +38,6 @@ body {
     color: #1964eb;
     font-family: "sans-serif";
     font-style: normal;
-}
-
-.container {
-    display: flex;
-    flex-direction: row;   
-    margin: auto; 
-    font-family: sans-serif;
-}
-.salary-sub-container {
-    padding-right: 2rem;
-    width: 400px;
-}
-
-.level {
-    font-family: sans-serif;
-    width: 500px;
-    padding-top: 10px;
-}
-.education-container {
-    display: flex;
-    flex-direction: row;
-}
-
-.barBar {
-    width: 300px;
-    padding-left: 5%;
-    padding-top: 1.75%
 }
 
 .card-text {
@@ -73,46 +49,77 @@ body {
     font-style: normal;
 }
 
-.space {
-    padding-left: 1rem;
-}
-
-.salary {
-    font-family: sans-serif;
-    font-weight: normal;
-    font-size: 0.9rem;
-    padding-top: 10px;
-}
-
-.salary-sub-element {
-    display: flex;
-    flex-direction: row;
-    font-weight: bold;
-    margin-left: 35px;
-}
-
 .overflow {
     flex-direction: row;
     padding-left: 1rem;
 }
 
 .image {
-    border-radius: 8px;
-    width: 150px;
-    height: 150px;
+    border-radius: 0.5rem;
+    width: 9rem;
+    height: 9rem;
     overflow: hidden;
 }
 
-.icon {
-    padding-right: 10px;
-    padding-left: 10px;
-    align-items: center;
-    background-color: #e5e5e5;
-    border-radius: 4px;
+.salary-sub-container {
+    padding-right: 2rem;
+    width: 25rem;
 }
+
+.sub-container {
+    display: flex;
+    flex-direction: row;
+}
+
+.median-space {
+    padding-left: 1.5rem;
+}
+
+.education-space {
+    padding-left: 1.5rem;
+}
+
+.sub-title {
+    width: 8rem;
+}
+
+.salary {
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 0.9rem;
+    color: black;
+}
+
+.education-container {
+    display: flex;
+    flex-direction: row;
+}
+
+.level {
+    font-family: sans-serif;
+    width: 34rem;
+    padding-top: 0.7rem;
+}
+
 
 .bar {
     font-family: sans-serif;
     font-weight: normal;
     font-size: 0.9rem;
+}
+
+.line-bar {
+    width: 19rem;
+    padding-left: 0.7rem;
+    padding-top: 0.8rem;
+}
+
+.icon {
+    padding-right: 0.8rem;
+    padding-left: 0.8rem;
+    align-items: center;
+    width: 2.5rem;
+    height: 2.5rem;
+    background-color: #e5e5e5;
+    border-radius: 0.3rem; 
 }

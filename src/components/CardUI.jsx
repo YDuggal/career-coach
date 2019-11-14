@@ -27,7 +27,7 @@ function createPercentBar(educationAttainmentLevels) {
     const barArray = [];
     Object.values(educationAttainmentLevels).forEach((element) => {
         barArray.push(
-            <Line className="barBar"
+            <Line className="line-bar"
                 percent={element.percent}
                 strokeWidth="1.5"
                 strokeColor="#AA182C"
@@ -53,7 +53,7 @@ const Card = (props) => {
                             {props.title}
                         </h2>
 
-                        <span className="card-text text-dark">
+                        <span className="card-text">
                             {props.description}
                         </span>
                     </div>
@@ -67,27 +67,29 @@ const Card = (props) => {
                 <div className="container">
                     <div className="salary-sub-container">
                         <div className="sub-container">
-                            <Cash fontSize="36px" color="grey" className="icon" />
-                            <div className="space">
-                                <span className="subtitle">
+                            <div className="icon-bg">
+                                <Cash color="grey" className="icon" />
+                            </div>
+                            <div className="median-space">
+                                <div className="sub-title">
                                     Median Salary
-                                </span>
-                                <br/>
-                                <br/>
-                                    <span className="salary"/>
-                                    <NumberFormat value={Math.round((props.medianSalary))}
+                                </div>
+                                <br />
+                                <NumberFormat value={Math.round((props.medianSalary))}
                                     displayType={'text'}
                                     thousandSeparator={true}
-                                    prefix={'$'} />
-                                    <span/>
+                                    prefix={'$'}
+                                    className="salary" />
                             </div>
                         </div>
                     </div>
 
                     <div className="education-sub-container">
                         <div className="sub-container">
-                            <School fontSize="50px" color="grey" className="icon" />
-                            <div className="space">
+                            <div className="icon-bg">
+                                <School color="grey" className="icon" />
+                            </div>
+                            <div className="education-space">
                                 <span>
                                     Top Entry-level Education
                                 </span>
