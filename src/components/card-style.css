@@ -36,7 +36,6 @@ body {
     font-weight: 600;
     line-height: 2.5rem;
     color: #1964eb;
-    font-family: "sans-serif";
     font-style: normal;
 }
 
@@ -97,7 +96,7 @@ body {
 
 .level {
     font-family: sans-serif;
-    width: 34rem;
+    width: 31rem;
     padding-top: 0.7rem;
 }
 
@@ -110,7 +109,7 @@ body {
 
 .line-bar {
     width: 19rem;
-    padding-left: 0.7rem;
+    /* padding-left: 0.7rem; */
     padding-top: 0.8rem;
 }
 
